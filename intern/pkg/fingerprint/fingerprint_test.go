@@ -5,8 +5,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/pkg/dsp"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/pkg/dsp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/sfluor/musig/internal/pkg/sound"
+	"github.com/dreadl0ck/musig/intern/pkg/sound"
 	"github.com/spf13/cobra"
 )
 

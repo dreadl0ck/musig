@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/internal/pkg/pipeline"
-	"github.com/sfluor/musig/pkg/dsp"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/intern/pkg/pipeline"
+	"github.com/dreadl0ck/musig/pkg/dsp"
 	"github.com/spf13/cobra"
 )
 

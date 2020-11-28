@@ -7,8 +7,8 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/pkg/errors"
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/pkg/dsp"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/pkg/dsp"
 	"github.com/spf13/cobra"
 )
 

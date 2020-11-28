@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/sfluor/musig/pkg/stats"
+	"github.com/dreadl0ck/musig/pkg/stats"
 )
 
 // SpecToImg takes a spectrogram (matrix of floats representing m[time][frequency] = amplitude)

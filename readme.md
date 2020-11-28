@@ -1,6 +1,6 @@
 # musig :speaker:
 
-[![GoDoc](https://godoc.org/github.com/sfluor/musig?status.svg)](https://godoc.org/github.com/sfluor/musig)
+[![GoDoc](https://godoc.org/github.com/dreadl0ck/musig?status.svg)](https://godoc.org/github.com/dreadl0ck/musig)
 [![CircleCI](https://circleci.com/gh/sfluor/musig/tree/master.svg?style=svg)](https://circleci.com/gh/sfluor/musig/tree/master)
 
 A shazam-like tool that allows you to compute song's fingerprints and reverse lookup song names.

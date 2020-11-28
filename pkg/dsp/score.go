@@ -1,8 +1,8 @@
 package dsp
 
 import (
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/pkg/stats"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/pkg/stats"
 )
 
 // MatchScore computes a match score between the two transformed audio samples (into a list of Key + TableValue)

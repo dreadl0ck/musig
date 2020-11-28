@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sfluor/musig/internal/pkg/pipeline"
+	"github.com/dreadl0ck/musig/intern/pkg/pipeline"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

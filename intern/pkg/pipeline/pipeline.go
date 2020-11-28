@@ -4,10 +4,10 @@ import (
 	"os"
 
 	"github.com/pkg/errors"
-	"github.com/sfluor/musig/internal/pkg/db"
-	"github.com/sfluor/musig/internal/pkg/fingerprint"
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/pkg/dsp"
+	"github.com/dreadl0ck/musig/intern/pkg/db"
+	"github.com/dreadl0ck/musig/intern/pkg/fingerprint"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/pkg/dsp"
 	log "github.com/sirupsen/logrus"
 )
 

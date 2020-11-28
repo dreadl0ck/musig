@@ -1,6 +1,6 @@
 package db
 
-import "github.com/sfluor/musig/internal/pkg/model"
+import "github.com/dreadl0ck/musig/intern/pkg/model"
 
 // Database is an interface for storing fingerprint parts in a database and retrieving them
 type Database interface {

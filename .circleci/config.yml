@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/golang:1.12
-    working_directory: /go/src/github.com/sfluor/musig
+    working_directory: /go/src/github.com/dreadl0ck/musig
     steps:
       - checkout
       - run:

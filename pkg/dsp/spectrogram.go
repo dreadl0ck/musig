@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/pkg/errors"
-	"github.com/sfluor/musig/internal/pkg/model"
-	"github.com/sfluor/musig/internal/pkg/sound"
-	"github.com/sfluor/musig/pkg/stats"
+	"github.com/dreadl0ck/musig/intern/pkg/model"
+	"github.com/dreadl0ck/musig/intern/pkg/sound"
+	"github.com/dreadl0ck/musig/pkg/stats"
 )
 
 // Spectrogrammer is a struct that allows to create spectrograms

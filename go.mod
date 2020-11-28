@@ -1,4 +1,4 @@
-module github.com/sfluor/musig
+module github.com/dreadl0ck/musig
 
 go 1.12
 

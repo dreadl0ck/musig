@@ -1,6 +1,6 @@
 package main
 
-import "github.com/sfluor/musig/cmd/musig/cmd"
+import "github.com/dreadl0ck/musig/cmd/musig/cmd"
 
 var VERSION string
 
