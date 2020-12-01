@@ -3,15 +3,13 @@ module github.com/dreadl0ck/musig
 go 1.12
 
 require (
-	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.4.2
-	github.com/spf13/cobra v0.0.6
-	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/sirupsen/logrus v1.7.0
+	github.com/spf13/cobra v1.1.1
+	github.com/stretchr/testify v1.6.1
 	github.com/youpy/go-riff v0.0.0-20131220112943-557d78c11efb
-	github.com/youpy/go-wav v0.0.0-20160223082350-b63a9887d320
-	go.etcd.io/bbolt v1.3.3
-	golang.org/x/sys v0.0.0-20200219091948-cb0a6d8edb6c // indirect
-	gonum.org/v1/gonum v0.0.0-20200222091724-332e2c454720
+	github.com/youpy/go-wav v0.1.0
+	go.etcd.io/bbolt v1.3.5
+	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3 // indirect
+	gonum.org/v1/gonum v0.8.1
 )
