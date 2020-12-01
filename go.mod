@@ -3,7 +3,6 @@ module github.com/dreadl0ck/musig
 go 1.12
 
 require (
-	github.com/gordonklaus/portaudio v0.0.0-20180817120803-00e7307ccd93
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.4.2
